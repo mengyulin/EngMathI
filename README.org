@@ -1,9 +1,9 @@
 #+title: 工程數學（一） (Engineering Mathematics I)
 
 * 說明
-此網頁係提供「工程數學（一）」課程之相關 SageMath 程式、範例、練習等資訊。
+此網頁提供「工程數學（一）」課程之相關 SageMath 程式、範例、練習等資訊。
 
 * SageMath 講義
 使用 Jupyter Notebook 呈現之 SageMath 講義，依章節分類。
 
-- 2.1 Solution Curves Without a Solution: [[./Ch2/2_1_DirectionFields.ipynb]]
+- [[http://nbviewer.jupyter.org/github/mengyulin/EngMathI/Ch2/2_1_DirectionFields.ipynb][2.1 Solution Curves Without a Solution]]
