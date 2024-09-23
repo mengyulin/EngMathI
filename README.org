@@ -6,4 +6,4 @@
 * SageMath 講義
 使用 Jupyter Notebook 呈現之 SageMath 講義，依章節分類。
 
-- [[http://nbviewer.jupyter.org/github/mengyulin/EngMathI/Ch2/2_1_DirectionFields.ipynb][2.1 Solution Curves Without a Solution]]
+- [[https://nbviewer.org/github/mengyulin/EngMathI/blob/master/Ch2/2_1_DirectionFields.ipynb][2.1 Solution Curves Without a Solution]]
