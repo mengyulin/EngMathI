@@ -4,10 +4,10 @@
 此網頁提供「工程數學（一）」課程之相關 SageMath 程式、範例、練習等資訊。
 
 * SageMath 講義
-使用 Jupyter Notebook 呈現之 SageMath 講義，依章節分類。
+使用 Jupyter Notebook 呈現之 SageMath 講義，包含基本指令介紹，以及課本章節內容的應用。
 
-- SageMath Basics: Symbolic Expressions and Equations
+- [[https://nbviewer.org/github/mengyulin/EngMathI/blob/master/Symbolic/Basic_Symbolic.ipynb][SageMath 基礎: 符號表示式與函數]]
 
-- SageMath Basics: 2-D Graphics
+- [[https://nbviewer.org/github/mengyulin/EngMathI/blob/master/2D_Graphics/Basic_2dGraphics.ipynb][SageMath 基礎：2-D 繪圖]]
 
 - [[https://nbviewer.org/github/mengyulin/EngMathI/blob/master/Ch2/2_1_DirectionFields.ipynb][2.1 Solution Curves Without a Solution]]
