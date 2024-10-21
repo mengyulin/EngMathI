@@ -3,6 +3,8 @@
 * 說明
 此網頁提供「工程數學（一）」課程之相關 SageMath 程式、範例、練習等資訊。
 
+SageMath 安裝、手冊等資訊，可參見 SageMath 官網: https://www.sagemath.org/。
+
 * SageMath 講義
 使用 Jupyter Notebook 呈現之 SageMath 講義，包含基本指令介紹，以及課本章節內容的應用。
 
@@ -11,3 +13,10 @@
 - [[https://github.com/mengyulin/EngMathI/blob/master/2D_Graphics/Basic_2dGraphics.ipynb][SageMath 基礎：2-D 繪圖]]
 
 - [[https://nbviewer.org/github/mengyulin/EngMathI/blob/master/Ch2/2_1_DirectionFields.ipynb][2.1 Solution Curves Without a Solution]]
+
+* SageMath 作業
+** Chapter 2: First-Order Differential Equations
+
+- [[https://github.com/mengyulin/EngMathI/blob/master/HWs/Ch2/SageMathHW_Ch2.ipynb][作業題目]]
+
+- [[https://github.com/mengyulin/EngMathI/blob/master/HWs/Ch2/SageMathHW_Ch2_Examples.ipynb][範例]]
