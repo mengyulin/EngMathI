@@ -3,7 +3,7 @@
 * 說明
 此網頁提供「工程數學（一）」課程之相關 SageMath 程式、範例、練習等資訊。
 
-SageMath 安裝、手冊等資訊，可參見 SageMath 官網: https://www.sagemath.org/。
+SageMath 安裝、手冊等資訊，可參見 SageMath 官網: https://www.sagemath.org
 
 * SageMath 講義
 使用 Jupyter Notebook 呈現之 SageMath 講義，包含基本指令介紹，以及課本章節內容的應用。
