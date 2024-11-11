@@ -14,6 +14,8 @@ SageMath 更詳細的安裝與學習資訊，可參見 SageMath 官網: https://
 
 - [[https://nbviewer.org/github/mengyulin/EngMathI/blob/master/Ch2/2_1_DirectionFields.ipynb][2.1 Solution Curves Without a Solution]]
 
+
+
 * SageMath 作業
 ** Chapter 2: First-Order Differential Equations
 
