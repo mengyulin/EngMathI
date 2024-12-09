@@ -18,6 +18,10 @@ SageMath 更詳細的安裝與學習資訊，可參見 SageMath 官網: https://
 
 - [[https://github.com/mengyulin/EngMathI/blob/master/Ch3/3_8_SpringMass_2.ipynb][3.8 Spring/Mass System: Free Damped Motion]]
 
+- [[https://github.com/mengyulin/EngMathI/blob/master/Ch4/Laplace_Transform_Examples.ipynb][Laplace Transform 範例]]
+
+- [[https://github.com/mengyulin/EngMathI/blob/master/Ch5/Power_Series_Examples.ipynb][Power Series 範例]]
+
 * SageMath 作業
 ** Chapter 2: First-Order Differential Equations
 
