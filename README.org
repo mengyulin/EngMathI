@@ -22,6 +22,10 @@ SageMath 更詳細的安裝與學習資訊，可參見 SageMath 官網: https://
 
 - [[https://github.com/mengyulin/EngMathI/blob/master/Ch5/Power_Series_Examples.ipynb][Power Series 範例]]
 
+- [[https://github.com/mengyulin/EngMathI/blob/master/Ch5/series_solution_ode-1.ipynb][級數解之常點 (ordinary point) 解範例 1]]
+
+- [[https://github.com/mengyulin/EngMathI/blob/master/Ch5/series_solution_ode-2.ipynb][級數解之常點 (ordinary point) 解範例 2]]
+
 * SageMath 作業
 ** Chapter 2: First-Order Differential Equations
 
