@@ -65,15 +65,15 @@ SageMath 更詳細的安裝與學習資訊，可參見 SageMath 官網: https://
 
 2. 以 Laplace Transform 解微分方程式
 
-   - 參考以下講義，自行挑選二階線性微分方程式，應用 Laplace 之**正、逆轉換**進行求解 (不得與講義相同題目)。
+   - 自行設定一個二階線性微分方程式問題，參考以下講義之步驟，應用 Laplace 之正、逆轉換進行求解 (不得與講義相同題目)。
 
-   - 注意：須參考講義中 "使用正、逆轉換解方程式" 小節之步驟，而非僅使用 desolve_laplace 指令。
+   - 注意：須參考講義中「使用正、逆轉換解方程式」小節之步驟，而非僅使用 desolve_laplace 指令。
 
    - [[https://github.com/mengyulin/EngMathI/blob/master/Ch4/Laplace_Transform_Examples.ipynb][Laplace Transform 範例]]
 
 3. 以 Power Series 解微分方程式
 
-   - 參考以下講義，自行挑選二階線性微分方程式，應用 power series 求解 (不得與講義相同題目)：
+   - 自行設定一個二階線性微分方程式，參考以下講義之步驟，應用 power series 求解 (不得與講義相同題目)：
 
    - [[https://github.com/mengyulin/EngMathI/blob/master/Ch5/series_solution_ode-1.ipynb][級數解之常點 (ordinary point) 解範例 1]]
 
