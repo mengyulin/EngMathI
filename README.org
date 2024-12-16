@@ -33,10 +33,50 @@ SageMath 更詳細的安裝與學習資訊，可參見 SageMath 官網: https://
 
 - [[https://github.com/mengyulin/EngMathI/blob/master/HWs/Ch2/SageMathHW_Ch2_Examples.ipynb][範例]]
 
-* SageMath 專題
-** 題目
+* 期中考試之 SageMath 解答
 
-- [[https://github.com/mengyulin/EngMathI/blob/master/Ch3/3_8_SpringMass_3.ipynb][3.8 Spring/Mass System: Driven Motion]]
+- [[https://github.com/mengyulin/EngMathI/blob/master/Midterm/1131_midterm_for_example.ipynb][期中考試SageMath解答]]
+
+* SageMath 專題
+** 說明
+
+題目分為基本題與進階題兩部分。
+
+** 基本題題目 (60%)
+
+由以下各小節之課本習題，每小節自行挑選 1 題以 SageMath 求解，每題 10 分。包含：
+
+1. Section 2.1: Solution Curves Without a Solution
+2. Section 2.3: Linear Equations
+3. Section 3.3: Homogeneous Linear Equations with Constant Coefficients
+4. Section 3.4: Undetermined Coefficients
+5. Section 4.1: Definition of the Laplace Transform
+6. Section 4.2: The Inverse Transform and Transforms of Derivatives
+
+無課本者可參閱 ilearning 中之參考題目（舊版課本）。SageMath 之指令可參考上列之作業與期中考試的範例。
+
+** 進階題題目 (40%)
+
+以下題目挑選 2 題，每題 20 分：
+
+1. 彈簧質量系統之分析
+
+   - [[https://github.com/mengyulin/EngMathI/blob/master/Ch3/3_8_SpringMass_3.ipynb][3.8 Spring/Mass System: Driven Motion]]
+
+2. 以 Laplace Transform 解微分方程式
+
+   參考以下講義，自行挑選二階線性微分方程式，應用 Laplace 之正、逆轉換求解 (不得與講義相同題目)：
+
+   - [[https://github.com/mengyulin/EngMathI/blob/master/Ch4/Laplace_Transform_Examples.ipynb][Laplace Transform 範例]]
+
+3. 以 Power Series 解微分方程式
+
+   參考以下講義，自行挑選二階線性微分方程式，應用 power series 求解 (不得與講義相同題目)：
+
+   - [[https://github.com/mengyulin/EngMathI/blob/master/Ch5/series_solution_ode-1.ipynb][級數解之常點 (ordinary point) 解範例 1]]
+
+   - [[https://github.com/mengyulin/EngMathI/blob/master/Ch5/series_solution_ode-2.ipynb][級數解之常點 (ordinary point) 解範例 2]]
+
 
 * 文件格式與排版
 ** Markdown 指令教學
